@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full Stack Developer | MERN Stack | Java Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=🔭+Currently+building+BizzLink;🌱+Learning+MERN+%2B+Java;💬+Ask+me+about+React+%26+Java;🚀+Looking+for+placement+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=🔭+Currently+building+BizzLink;🌱+Learning+MERN+%2B+Java;💬+Ask+me+about+React+%26+Java;" alt="Typing SVG" />
 </p>
 
 ---
